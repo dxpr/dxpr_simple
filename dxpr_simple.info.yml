@@ -21,8 +21,6 @@ install:
   - media
   - media_library
   - dxpr_builder_media
-  - dropzonejs
-  - dropzonejs_eb_widget
   - inline_entity_form
   - block_content
   - editor

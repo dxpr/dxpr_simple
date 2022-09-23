@@ -1,16 +1,11 @@
 name: DXPR Simple Demo Content
 type: module
 description: Demo Content for DXPR Simple installation profile.
-version: 1.0.0-alpha1
 package: DXPR
 core_version_requirement: ^10
 dependencies:
   - dxpr_builder:dxpr_builder
   - drupal:default_content
-  - drupal:entity_browser
-  - drupal:dropzonejs
-  - drupal:dropzonejs_eb_widget
-  - drupal:inline_entity_form
 default_content:
   node:
     - 84cd44c2-4de3-48bc-a4cb-7ba0b428daee
