@@ -1,5 +1,5 @@
 {
-  "name": "dxpr/dxpr_simple",
+  "name": "drupal/dxpr_simple",
   "type": "drupal-profile",
   "description": "Simple demo site with DXPR Builder no-code page builder.",
   "homepage": "https://www.drupal.org/project/dxpr_simple",
