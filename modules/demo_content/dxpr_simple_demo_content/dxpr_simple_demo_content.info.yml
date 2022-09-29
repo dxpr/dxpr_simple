@@ -2,7 +2,7 @@ name: DXPR Simple Demo Content
 type: module
 description: Demo Content for DXPR Simple installation profile.
 package: DXPR
-core_version_requirement: ^10
+core_version_requirement: ^9.3
 dependencies:
   - dxpr_builder:dxpr_builder
   - drupal:default_content
