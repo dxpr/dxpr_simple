@@ -20,7 +20,8 @@ install:
   - entity_browser
   - media
   - media_library
-  - dxpr_builder_media
+  - dxpr_builder
+  - dxpr_builder_block
   - inline_entity_form
   - block_content
   - editor

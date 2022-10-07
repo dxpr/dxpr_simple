@@ -52,7 +52,7 @@ function dxpr_simple_install_tasks(&$install_state) {
 function dxpr_simple_module_install(array &$install_state) {
   // Installed separately here so that it can detect and connect any pre-
   // installed media browsers
-  Drupal::service('module_installer')->install(['dxpr_builder'], TRUE);
+  Drupal::service('module_installer')->install(['dxpr_builder_media'], TRUE);
   // Drupal::service('module_installer')->install(['dxpr_builder_page'], TRUE);
   Drupal::service('module_installer')->install(['dxpr_builder_block'], TRUE);
 
