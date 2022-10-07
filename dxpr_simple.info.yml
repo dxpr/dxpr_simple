@@ -2,7 +2,7 @@ name: DXPR Simple Demo
 type: profile
 distribution:
   name: DXPR Simple demo
-core_version_requirement: ^10.0
+core_version_requirement: ^9.3 || ^10
 description: 'Install with DXPR Builder pre-configured.'
 version: VERSION
 install:
